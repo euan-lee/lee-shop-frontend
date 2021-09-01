@@ -19,5 +19,7 @@ cors란?
 -프록시 서버로 넘어온 데이터를 조작할 수 있다.
 
 (프록시 미들웨어란??,http란?)
-
+단 프록시 서버 사용시 속도가 늦어 질수 있음
 출처:https://www.youtube.com/watch?v=lg-wHikZg0Q
+
+
